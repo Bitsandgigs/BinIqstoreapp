@@ -1,1 +1,1 @@
-# BinIq
+# BinIq-StoreApp
